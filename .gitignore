@@ -5,7 +5,7 @@
 
 # gradle
 .gradle
-gradle/wrapper/
+/gradle/wrapper/
 build
 
 # log
